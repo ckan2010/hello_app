@@ -32,6 +32,7 @@ public class MainActivity extends Activity implements View.OnClickListener{
         bt_divide.setOnClickListener(this);
         bt_rest.setOnClickListener(this);
         bt_equal.setOnClickListener(this);
+        /*계산기*/
     }
     @Override
     public void onClick(View v) {
